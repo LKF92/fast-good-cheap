@@ -1,3 +1,7 @@
+# Try it [here](https://fast-good-cheap-react.netlify.com/)
+### It's just not possible
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
